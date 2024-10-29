@@ -11,6 +11,8 @@
 
 import 'reflect-metadata'
 import { Ignitor, prettyPrintError } from '@adonisjs/core'
+import dotenv from 'dotenv';
+dotenv.config();
 
 /**
  * URL to the application root. AdonisJS need it to resolve
