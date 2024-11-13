@@ -26,14 +26,14 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/Stake99/Carbo_studios-api/tree/main)
+cd Carbo_studios-api
 Install dependencies:
 
 bash
 Copy code
 npm install
-Set up MySQL: Ensure you have MySQL installed and running. Create a new database for this project.
+Set up MySQL: Ensure you have MySQL installed and running.
 
 Configure Environment Variables: See the Environment Variables section below for configuration details.
 
