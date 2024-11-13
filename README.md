@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-[git clone https://github.com/your-username/your-repo-name.git](https://github.com/Stake99/Carbo_studios-api/tree/main)
+[git clone https://github.com/Stake99/Carbo_studios-api/tree/main)
 cd Carbo_studios-api
 Install dependencies:
 
