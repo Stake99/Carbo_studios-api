@@ -20,7 +20,7 @@ Requirements
 Node.js v14 or higher
 AdonisJS (Framework)
 MySQL Database
-Redis (Optional for caching, recommended)
+
 Installation
 Clone the repository:
 
